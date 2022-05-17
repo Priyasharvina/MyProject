@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2914" started-at="2022-04-20T19:26:57 IST" finished-at="2022-04-20T19:27:00 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2914" started-at="2022-04-20T19:26:57 IST" finished-at="2022-04-20T19:27:00 IST">
+      <class name="org.maven.Dataprovider">
+        <test-method status="PASS" signature="test1(java.lang.String,java.lang.String)[pri:0, instance:org.maven.Dataprovider@543c6f6d]" name="test1" duration-ms="115" started-at="2022-04-20T19:26:59 IST" data-provider="MyDatas" finished-at="2022-04-20T19:27:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ncskc25@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdkcsoid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String,java.lang.String)[pri:0, instance:org.maven.Dataprovider@543c6f6d]" name="test1" duration-ms="8" started-at="2022-04-20T19:27:00 IST" data-provider="MyDatas" finished-at="2022-04-20T19:27:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ncsdcnlk@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ncsdlcjkc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- org.maven.Dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
